@@ -5,9 +5,6 @@ Me apasiona resolver problemas complejos a través del uso de datos y las más r
 
 - 🔭 Estoy trabajando en la construcción mi [blog_personal](https://carlosjavieruribemartes.github.io/personal_blog/). 
 - 🌱 Actualmente me encuentro inscrito en el programa de Data Science de Henry.
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
 
 ![Mi proyecto](https://user-images.githubusercontent.com/73907128/216771233-ade95cca-1821-4d9c-9c87-ce2f758b2232.jpg)
 

@@ -1,8 +1,6 @@
 ### Hola 👋
 
-Mi nombre es Carlos Javier Uribe Martes. Bienvenido a este repositorio.
-
-Ayudo a las empresas a soportar la toma de decisiones logísticas a través del análisis de grandes volúmenes de datos y el empleo de herramientas tecnológicas.
+Bienvenido a este repositorio. Mi nombre es Carlos Javier Uribe Martes. Ayudo a las empresas a soportar la toma de decisiones logísticas a través del análisis de grandes volúmenes de datos y el empleo de herramientas tecnológicas.
 
 Manejo bases de datos estructuradas (PostgreSQL), herramientas de visualización de datos (Tableau, Power BI), lenguajes de programación (Python), análisis de datos y machine learning (Pandas, Scikit-learn). Tengo conocimiento en estadística y optimización matemática (SPSS y CPLEX).
 

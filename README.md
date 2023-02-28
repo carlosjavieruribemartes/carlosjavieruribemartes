@@ -1,10 +1,11 @@
 ### Hola 👋
 
-Estoy comprometido con la mejora de la logística y la cadena de suministros empleando análisis de datos, investigación, innovación y tecnologías. 
-Me apasiona resolver problemas complejos a través del uso de datos y las más recientes técnicas y tecnologías de modelado para optimización y la ciencia de datos.
+Ayudo a las empresas a soportar la toma de decisiones logísticas a través del análisis de grandes volúmenes de datos y el empleo de herramientas tecnológicas.
+Manejo bases de datos estructuradas (PostgreSQL), herramientas de visualización de datos (Tableau, Power BI), lenguajes de programación (Python), análisis de datos y machine learning (Pandas, Scikit-learn). Tengo conocimiento en estadística y optimización matemática (SPSS y CPLEX).
+Con mi ayuda, las empresas pueden obtener ventajas competitivas en su industria, mejorando los procesos en su cadena de suministros a través de la generación de nuevas eficiencias, conociendo más a sus clientes y adelantándose a sus necesidades.
 
-- 🔭 Estoy trabajando en la construcción mi [blog_personal](https://carlosjavieruribemartes.github.io/personal_blog/). 
-- 🌱 Actualmente me encuentro inscrito en el programa de Data Science de Henry.
+- 🔭 Estoy trabajando en la construcción mi blog personal [mejor_explicado](https://carlosjavieruribemartes.github.io/mejor_explicado/). 
+
 
 ![Mi proyecto](https://user-images.githubusercontent.com/73907128/216771233-ade95cca-1821-4d9c-9c87-ce2f758b2232.jpg)
 

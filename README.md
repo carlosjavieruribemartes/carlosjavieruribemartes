@@ -7,6 +7,7 @@ Manejo bases de datos estructuradas (PostgreSQL), herramientas de visualización
 Con mi ayuda, las empresas pueden obtener ventajas competitivas en su industria, mejorando los procesos en su cadena de suministros a través de la generación de nuevas eficiencias, conociendo más a sus clientes y adelantándose a sus necesidades.
 
 - 🔭 Actualmente estoy trabajando en la construcción mi blog personal [mejor_explicado](https://carlosjavieruribemartes.github.io/mejor_explicado/). 
+- 📫 Contáctame en Discord:  (https://discord.gg/R75Mvkgw).
 
 
 ![Mi proyecto](https://user-images.githubusercontent.com/73907128/216771233-ade95cca-1821-4d9c-9c87-ce2f758b2232.jpg)
